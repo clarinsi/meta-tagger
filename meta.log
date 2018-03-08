@@ -1,0 +1,168 @@
+### lemma ###
+/usr/lib64/python2.7/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+full grid search
+0.737998117352
+full
+             precision    recall  f1-score   support
+
+          1       0.68      0.66      0.67      1380
+          2       0.74      0.76      0.75      1807
+
+avg / total       0.72      0.72      0.72      3187
+
+0.716347662378
+[[ 909  471]
+ [ 433 1374]]
+dummy
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      1380
+          2       0.57      1.00      0.72      1807
+
+avg / total       0.32      0.57      0.41      3187
+
+0.566990900533
+first
+             precision    recall  f1-score   support
+
+          1       0.43      1.00      0.60      1380
+          2       0.00      0.00      0.00      1807
+
+avg / total       0.19      0.43      0.26      3187
+
+0.433009099467
+second
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      1380
+          2       0.57      1.00      0.72      1807
+
+avg / total       0.32      0.57      0.41      3187
+
+0.566990900533
+### tag ###
+full grid search
+0.706894402194
+full
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      2655
+          2       0.67      1.00      0.80      5366
+
+avg / total       0.45      0.67      0.54      8021
+
+0.668993891036
+[[   0 2655]
+ [   0 5366]]
+dummy
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      2655
+          2       0.67      1.00      0.80      5366
+
+avg / total       0.45      0.67      0.54      8021
+
+0.668993891036
+first
+             precision    recall  f1-score   support
+
+          1       0.33      1.00      0.50      2655
+          2       0.00      0.00      0.00      5366
+
+avg / total       0.11      0.33      0.16      8021
+
+0.331006108964
+second
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      2655
+          2       0.67      1.00      0.80      5366
+
+avg / total       0.45      0.67      0.54      8021
+
+0.668993891036
+### lemma ###
+/usr/lib64/python2.7/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+full grid search
+0.737998117352
+full
+             precision    recall  f1-score   support
+
+          1       0.73      0.62      0.67      1380
+          2       0.74      0.82      0.78      1807
+
+avg / total       0.73      0.73      0.73      3187
+
+0.734860370254
+[[ 855  525]
+ [ 320 1487]]
+dummy
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      1380
+          2       0.57      1.00      0.72      1807
+
+avg / total       0.32      0.57      0.41      3187
+
+0.566990900533
+first
+             precision    recall  f1-score   support
+
+          1       0.43      1.00      0.60      1380
+          2       0.00      0.00      0.00      1807
+
+avg / total       0.19      0.43      0.26      3187
+
+0.433009099467
+second
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      1380
+          2       0.57      1.00      0.72      1807
+
+avg / total       0.32      0.57      0.41      3187
+
+0.566990900533
+### tag ###
+full grid search
+0.706894402194
+full
+             precision    recall  f1-score   support
+
+          1       0.62      0.30      0.40      2655
+          2       0.72      0.91      0.81      5366
+
+avg / total       0.69      0.71      0.67      8021
+
+0.706894402194
+[[ 791 1864]
+ [ 487 4879]]
+dummy
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      2655
+          2       0.67      1.00      0.80      5366
+
+avg / total       0.45      0.67      0.54      8021
+
+0.668993891036
+first
+             precision    recall  f1-score   support
+
+          1       0.33      1.00      0.50      2655
+          2       0.00      0.00      0.00      5366
+
+avg / total       0.11      0.33      0.16      8021
+
+0.331006108964
+second
+             precision    recall  f1-score   support
+
+          1       0.00      0.00      0.00      2655
+          2       0.67      1.00      0.80      5366
+
+avg / total       0.45      0.67      0.54      8021
+
+0.668993891036
