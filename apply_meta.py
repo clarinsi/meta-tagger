@@ -1,11 +1,12 @@
 import os
+import sys
 from sklearn.externals import joblib
 lemma_clf=joblib.load('lemma.model') 
 tag_clf=joblib.load('tag.model')
 from meta import feats_lemma,feats_tag
-for file in os.listdir('/home/tomaz/Project/SSJ/Gigafida/MetaTag/gf2tag'):
+for file in os.listdir('in/'):
     f=open('out/'+file,'w')
-    for line in open('/home/tomaz/Project/SSJ/Gigafida/MetaTag/gf2tag/'+file):
+    for line in open('in/'+file):
         if line.strip()=='':
             f.write('\n')
             continue
