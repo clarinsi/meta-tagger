@@ -1,0 +1,58 @@
+Predloga	Sozei	predloga
+za	Dt	za
+domačo	Ppnzet	domač
+lestvico	Sozet	lestvica
+:	U	:
+
+NE	L	ne
+ODHAJAJ	Ggnvde	odhajati
+POLETJE	Sosei	poletje
+-	U	-
+TINKARA	Slzei	Tinkara
+KOVAČ	Slzei	Kovač
+
+KAR	Zz-sei	kar
+JE	Gp-ste-n	biti
+RES	Rsn	res
+,	U	,
+JE	Gp-ste-n	biti
+RES	Rsn	res
+-	U	-
+FARAONI	Sommi	faraon
+
+Nagrajenca	Somdi	nagrajenec
+:	U	:
+
+Matjaž	Slmei	Matjaž
+Konda	Slmei	Konda
+,	U	,
+Iršičeva	Psnzei	Iršičev
+6	Kag	6
+,	U	,
+Celje	Slsei	Celje
+
+Laura	Slzei	Laura
+Kolšek	Slzei	Kolšek
+,	U	,
+V	Dm	v
+gaju	Somem	gaj
+3	Kag	3
+,	U	,
+Radeče	Slzmi	Radeče
+
+Nagrajenca	Somdi	nagrajenec
+dvigneta	Ggdstd	dvigniti
+kaseto	Sozet	kaseta
+,	U	,
+ki	Vd	ki
+jo	Zotzet--k	on
+podarja	Ggnste	podarjati
+ZKP	Slmei	ZKP
+RTVS	Slmei	RTVS
+,	U	,
+na	Dm	na
+oglasnem	Ppnmem	oglasen
+oddelku	Somem	oddelek
+Radia	Somer	radio
+Celje	Slsei	Celje
+

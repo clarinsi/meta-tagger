@@ -1,0 +1,58 @@
+Predloga	Somer	predlog	Sozei	predloga
+za	Dt	za	Dt	za
+domačo	Ppnzet	domač	Ppnzet	domač
+lestvico	Sozet	lestvica	Sozet	lestvica
+:	U	:	U	:
+	
+NE	L	ne	L	ne
+ODHAJAJ	Ggnvde	odhajati	Ggnvde	odhajati
+POLETJE	Sosei	poletje	Sosei	poletje
+-	U	-	U	-
+TINKARA	Slzei	TINKARA	Slzei	Tinkara
+KOVAČ	Slzei	KOVAČ	Slzei	Kovač
+	
+KAR	Rsn	kar	Zz-sei	kar
+JE	Gp-ste-n	biti	Gp-ste-n	biti
+RES	Rsn	res	Rsn	res
+,	U	,	U	,
+JE	Gp-ste-n	biti	Gp-ste-n	biti
+RES	Rsn	res	Rsn	res
+-	U	-	U	-
+FARAONI	Sommi	faraon	Sommi	faraon
+	
+Nagrajenca	Somer	nagrajenec	Somdi	nagrajenec
+:	U	:	U	:
+	
+Matjaž	Slmei	Matjaž	Slmei	Matjaž
+Konda	Slmei	Konda	Slmei	Konda
+,	U	,	U	,
+Iršičeva	Psnzei	Iršičev	Psnzei	Iršičev
+6	Kag	6	Kag	6
+,	U	,	U	,
+Celje	Slsei	Celje	Slsei	Celje
+	
+Laura	Slzei	Laura	Slzei	Laura
+Kolšek	Slmei	Kolšek	Slzei	Kolšek
+,	U	,	U	,
+V	Dm	v	Dm	v
+gaju	Somem	gaj	Somem	gaj
+3	Kag	3	Kag	3
+,	U	,	U	,
+Radeče	Slzmi	Radeče	Slzmi	Radeče
+
+Nagrajenca	Somer	nagrajenec	Somdi	nagrajenec
+dvigneta	Ggdstd	dvigniti	Ggdstd	dvigniti
+kaseto	Sozet	kaseta	Sozet	kaseta
+,	U	,	U	,
+ki	Vd	ki	Vd	ki
+jo	Zotzet--k	on	Zotzet--k	on
+podarja	Ggnste	podarjati	Ggnste	podarjati
+ZKP	Slmei	ZKP	Slmei	ZKP
+RTVS	Slmei	RTVS	Slmei	RTVS
+,	U	,	U	,
+na	Dm	na	Dm	na
+oglasnem	Ppnmem	oglasen	Ppnmem	oglasen
+oddelku	Somem	oddelek	Somem	oddelek
+Radia	Somer	radio	Somer	radio
+Celje	Slsei	Celje	Slsei	Celje
+
